@@ -5,6 +5,7 @@ on:
       - main
     paths: 
       - "labs/**"
+      - "labs-not-existing/**"
 
 jobs:
   Explore-GitHub-Actions:
